@@ -4,7 +4,7 @@
   "description": "Recriando a Steam utilizando o que estou aprendendo de JavaScript/Node.js",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "vercel-build": "next vercel-build"
   },
   "author": "",
   "license": "ISC",
